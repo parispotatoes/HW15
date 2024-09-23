@@ -1,2 +1,2 @@
 # HW15
-Leaflet
+In this assignment, several languages (CSS, D3, GeoJSON, HTML, JavaScript, Leaflet) and the US Geological Survey’s Earthquake API were utilized to construct a map of earthquakes that occurred within the last month. Leaflet was employed to create marker clusters that visualized the locations of the earthquakes, each accompanied by a popup displaying key information. A legend was included to clarify the depth of the earthquakes. Additionally, GeoJSON data of tectonic plates was integrated into the map to facilitate the potential correlation of earthquake occurrences with plate movement.
